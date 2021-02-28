@@ -1,0 +1,52 @@
+.row {
+  margin-left: 40px;
+  margin-top: 20px;
+}
+label {
+  float: left;
+  width: 10em;
+  margin-right: 1em;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+.right {
+  float: right;
+  margin-top: 20px;
+}
+h2 {
+  float:none;
+  margin-top: -490px;
+  margin-right: 400px;
+
+}
+.submit {
+  background-color: blue;
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  text-align: center;
+  margin: 14px;
+
+}
+  
+.button1 {
+  background-color: crimson;
+  font-size: medium;
+  margin: 14px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
